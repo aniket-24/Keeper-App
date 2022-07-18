@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/Keeper-App/static/js/main.4e8f072e.chunk.js",
+    "main.js.map": "/Keeper-App/static/js/main.4e8f072e.chunk.js.map",
+    "runtime-main.js": "/Keeper-App/static/js/runtime-main.31b25eb3.js",
+    "runtime-main.js.map": "/Keeper-App/static/js/runtime-main.31b25eb3.js.map",
+    "static/js/2.398dbefe.chunk.js": "/Keeper-App/static/js/2.398dbefe.chunk.js",
+    "static/js/2.398dbefe.chunk.js.map": "/Keeper-App/static/js/2.398dbefe.chunk.js.map",
+    "index.html": "/Keeper-App/index.html",
+    "precache-manifest.c9749eda3a7dd46d27daa7a766435a59.js": "/Keeper-App/precache-manifest.c9749eda3a7dd46d27daa7a766435a59.js",
+    "service-worker.js": "/Keeper-App/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31b25eb3.js",
+    "static/js/2.398dbefe.chunk.js",
+    "static/js/main.4e8f072e.chunk.js"
+  ]
+}
