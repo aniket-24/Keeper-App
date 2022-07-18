@@ -3,9 +3,9 @@
   margin: 0;
   box-sizing: border-box;
 }
-/* html {
-  font-family: "Montserrat", sans-serif;
-} */
+html {
+  font-family: "Montserrat", cursive;
+}
 body {
   background: #eee;
   background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
@@ -21,7 +21,7 @@ header {
 
 header h1 {
   color: #fff;
-  font-family: "McLaren", cursive;
+  font-family: "Montserrat", cursive;
   font-weight: 200;
 }
 
